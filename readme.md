@@ -1,4 +1,4 @@
-# unit-2-workshop-1
+# Unit-2-workshop-1
 ### Add Data to list and display the entered data on the screen.
 ### AIM:
 To Add Data to list and display the entered data on the screen.
@@ -22,6 +22,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ### PROGRAM:
+```
+Developed by:
+Name : ASHWIN A O
+Regno: 212220230005
+```
 ### activity_main.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
